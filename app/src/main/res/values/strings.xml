@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="alpukat">Keterangan untuk Alpukat</string>
+    <string name="apel">Keterangan untuk Apel</string>
+    <string name="ceri">Keterangan untuk Ceri</string>
+    <string name="durian">Keterangan untuk Durian</string>
+    <string name="jambuair">Keterangan untuk Jambu Air</string>
+    <string name="manggis">Keterangan untuk Manggis</string>
+    <string name="strawberry">Keterangan untuk Strawberry</string>
+</resources>
